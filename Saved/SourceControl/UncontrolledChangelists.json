@@ -5,6 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/Animation/Shoot_SK_AR4_Skeleton_Sequence.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Rarity_ENUM.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Rarity_Struct.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Blueprint/BP_LootSystem.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/ENUM/Rarity_ENUM.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Struct/Rarity_Struct.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Blueprint/BP_LootSpawner.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/BP_LootInstance.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JA/5AB8Z3MOULPCN7J0FNDR27.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/Animation/Reloading_SK_AR4_Skeleton_Sequence.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/MI_CommonItem.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Material/MI_CommonItem.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Material/MI_UnCommonItem.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Material/Mi_RareItem.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Material/Mi_EpickItem.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Material/Mi_Legendary.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/LootSystem/Material/Mi_GodlyIItem.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/JP/JQLFSM8ZK99678BJYVD1OH.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/IP/WUZHU9HNCQTY8P5JBRF3OF.uasset",
+				"C:/Users/Admin/Documents/LooterShooter_Git/Content/Blueprint/MI_Solid_Blue_Inst.uasset",
 				"C:/Users/nikod/Documents/Unreal Projects/LooterShooterGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
